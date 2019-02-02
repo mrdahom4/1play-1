@@ -1,6 +1,6 @@
-﻿token= NTQxMTYxMTg4Mzc0MDg1NjQy.Dzblew.9MCGf1JrJI-FGwogbkojs_KtEAc
+﻿token=NTQxMTYxMTg4Mzc0MDg1NjQy.DzbwHA.rhznwsM6D7doPzbGzyFZ-rDRjvo
 owner=525434548939653151
-prefix= 1
-game= Only Lòrans.
+prefix=1
+game=Only Lòrans.
 stayinchannel=true
 
